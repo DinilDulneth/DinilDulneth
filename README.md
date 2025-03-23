@@ -1,4 +1,7 @@
-<h1 align="center">Dinil Dulneth LiyanaArachchi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&background=FF573300&center=true&vCenter=true&width=435&lines=Dinil+Dulneth+LiyanaArachchi">
+</h1>
+
 <p align="center">
   <strong>🚀 Passionate about <span style="color:#f39c12">Software Engineering</span> & <span style="color:#3498db">Web Development</span></strong>
 </p>
@@ -6,18 +9,22 @@
 ---
 
 ### 🌱 About Me  
-- 💻 **Software Engineer Intern** at Techwire Pvt Ltd  
+- 💻 **Software Engineer Intern**  
   - Maintaining/developing systems for **Norochcholai Power Plant**  
 - 🎓 **Currently Studying** Information Technology at **SLIIT**  
-- 💞️ **Open to collaborating** on **software & web development projects**  
+- 💞 **Open to collaborating** on **software & web development projects**  
 - ⚡ **Love experimenting** with new technologies, frameworks, and scalable solutions  
 
 ---
 
-### 📫 Connect With Me  
+### 💌 Connect With Me  
 <p align="center">
-  <a href="mailto:dinildulneth123@gmail.com"><img src="https://img.shields.io/badge/Email-dinildulneth123%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi"><img src="https://img.shields.io/badge/LinkedIn-Dinil%20Dulneth-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:dinildulneth123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dinildulneth123%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi">
+    <img src="https://img.shields.io/badge/LinkedIn-Dinil%20Dulneth-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
@@ -56,10 +63,18 @@
 ### 💻 My Projects
 <p align="center">
   <a href="https://github.com/DinilDulneth/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project1&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project1&theme=radical" width="45%">
   </a>
   <a href="https://github.com/DinilDulneth/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project2&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project2&theme=radical" width="45%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DinilDulneth/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project3&theme=radical" width="45%">
+  </a>
+  <a href="https://github.com/DinilDulneth/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project4&theme=radical" width="45%">
   </a>
 </p>
 
