@@ -56,20 +56,19 @@
 
 ---
 
-
 ### 💻 My Projects
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
-  <div style="margin: 10px; width:50%">
+  <div style="margin: 10px; width:40%">
     <a href="https://github.com/DinilDulneth/workForceManagementSystem.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=radical" width="100%">
     </a>
   </div>
-  <div style="margin: 10px; width:50%">
+  <div style="margin: 10px; width:40%">
     <a href="https://github.com/DinilDulneth/LearnHereExampleOutput.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=radical" width="100%">
     </a>
   </div>
-  <div style="margin: 10px; width:50%">
+  <div style="margin: 10px; width:40%">
     <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=radical" width="100%">
     </a>
