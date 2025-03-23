@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Dinil Dulneth
+#👋 Hi, I’m Dinil Dulneth
 🚀 Passionate about Software Engineering & Web Development
 🎓 Currently studying Information Technology at SLIIT
 
