@@ -62,19 +62,22 @@
 
 ### 💻 My Projects
 <p align="center">
-  <a href="https://github.com/DinilDulneth/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project1&theme=radical" width="45%">
-  </a>
   <a href="https://github.com/DinilDulneth/workForceManagementSystem.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project2&theme=radical" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=radical" width="45%">
+    <br>
+    <img src="https://source.unsplash.com/400x200/?technology,teamwork" width="45%">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DinilDulneth/LearnHereExampleOutput.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project3&theme=radical" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=radical" width="45%">
+    <br>
+    <img src="https://source.unsplash.com/400x200/?education,learning" width="45%">
   </a>
   <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project4&theme=radical" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=radical" width="45%">
+    <br>
+    <img src="https://source.unsplash.com/400x200/?food,delivery" width="45%">
   </a>
 </p>
 
