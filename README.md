@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&background=FF573300&center=true&vCenter=true&width=435&lines=dddDinil+Dulneth">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&background=FF573300&center=true&vCenter=true&width=435&lines=Dinil+Dulneth">
 </h1>
 
 <p align="center">
@@ -65,15 +65,15 @@
   <a href="https://github.com/DinilDulneth/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project1&theme=radical" width="45%">
   </a>
-  <a href="https://github.com/DinilDulneth/project2">
+  <a href="https://github.com/DinilDulneth/workForceManagementSystem.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project2&theme=radical" width="45%">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DinilDulneth/project3">
+  <a href="https://github.com/DinilDulneth/LearnHereExampleOutput.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project3&theme=radical" width="45%">
   </a>
-  <a href="https://github.com/DinilDulneth/project4">
+  <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=project4&theme=radical" width="45%">
   </a>
 </p>
