@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&background=FF573300&center=true&vCenter=true&width=435&lines=Dinil+Dulneth">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Dinil+Dulneth+LiyanaArachchi">
 </h1>
 
 <p align="center">
@@ -9,22 +9,18 @@
 ---
 
 ### 🌱 About Me  
-- 💻 **Software Engineer Intern**  
+- 💻 **Software Engineer Intern**
   - Maintaining/developing systems for **Norochcholai Power Plant**  
 - 🎓 **Currently Studying** Information Technology at **SLIIT**  
-- 💞 **Open to collaborating** on **software & web development projects**  
+- 💞️ **Open to collaborating** on **software & web development projects**  
 - ⚡ **Love experimenting** with new technologies, frameworks, and scalable solutions  
 
 ---
 
-### 💌 Connect With Me  
+### 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:dinildulneth123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dinildulneth123%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi">
-    <img src="https://img.shields.io/badge/LinkedIn-Dinil%20Dulneth-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  <a href="mailto:dinildulneth123@gmail.com"><img src="https://img.shields.io/badge/Email-dinildulneth123%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi"><img src="https://img.shields.io/badge/LinkedIn-Dinil%20Dulneth-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
@@ -61,32 +57,32 @@
 ---
 
 ### 💻 My Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: center;">
   <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/workForceManagementSystem.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=radical" width="60%">
       <br>
-      <img src="https://source.unsplash.com/400x200/?technology,teamwork" width="100%">
+<!--       <img src="https://source.unsplash.com/400x200/?technology,teamwork" width="100%"> -->
       <br>
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%">
+<!--       <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"> -->
     </a>
   </div>
   <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/LearnHereExampleOutput.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=radical" width="60%">
       <br>
-      <img src="https://source.unsplash.com/400x200/?education,learning" width="100%">
+<!--       <img src="https://source.unsplash.com/400x200/?education,learning" width="100%"> -->
       <br>
-      <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="100%">
+<!--       <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="100%"> -->
     </a>
   </div>
   <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=radical" width="60%">
       <br>
-      <img src="https://source.unsplash.com/400x200/?food,delivery" width="100%">
+<!--       <img src="https://source.unsplash.com/400x200/?food,delivery" width="100%"> -->
       <br>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+<!--       <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"> -->
     </a>
   </div>
 </div>
