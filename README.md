@@ -4,13 +4,13 @@
   <strong>🚀 Passionate about <span style="color:#f39c12">Software Engineering</span> & <span style="color:#3498db">Web Development</span></strong>
 </p>
 
---
+---
 
-<h6>### 🌱 About Me 
-- 💻 <h6>**Software Engineer Intern**, maintaining and developing systems for Norochcholai Power Plant </h6>
-- 🎓 <h6>**Currently Studying** Information Technology at **SLIIT**</h6>   
-- 💞️ <h6>**Open to collaborating** on **software & web development projects**  </h6>
-- ⚡ <h6>**Love experimenting** with new technologies, frameworks, and scalable solutions</h6>  
+### 🌱 About Me  
+- 💻 **Software Engineer Intern**, maintaining and developing systems for Norochcholai Power Plant
+- 🎓 **Currently Studying** Information Technology at **SLIIT**  
+- 💞️ **Open to collaborating** on **software & web development projects**  
+- ⚡ **Love experimenting** with new technologies, frameworks, and scalable solutions  
 
 ---
 
