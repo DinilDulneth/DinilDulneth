@@ -62,7 +62,7 @@
 
 ### 💻 My Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 0 0 45%; margin: 10px; width="100%">
+  <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/workForceManagementSystem.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=radical" width="100%">
       <br>
@@ -71,7 +71,7 @@
       <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%">
     </a>
   </div>
-  <div style="flex: 0 0 45%; margin: 10px; width="100%">
+  <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/LearnHereExampleOutput.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=radical" width="100%">
       <br>
@@ -80,7 +80,7 @@
       <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="100%">
     </a>
   </div>
-  <div style="flex: 0 0 45%; margin: 10px; width="100%">
+  <div style="flex: 0 0 45%; margin: 10px; width="70%">
     <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=radical" width="100%">
       <br>
