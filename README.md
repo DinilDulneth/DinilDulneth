@@ -51,13 +51,18 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinilDulneth&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinilDulneth&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinilDulneth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinilDulneth&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinilDulneth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
+
 
 ## 📈 My Skills Progress
 <p align="center">
@@ -66,12 +71,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinilDulneth&theme=radical&no-frame=true&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=DinilDulneth&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
+
 
 ### 💻 My Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
