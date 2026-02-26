@@ -1,24 +1,44 @@
+<!-- ============================================================
+     DINIL DULNETH — GitHub README
+     Theme: Sky Blue + Gray/White Dark
+     ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dinil%20Dulneth&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20.NET%20%E2%80%A2%20Flutter%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20Tech%20Lead&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,30:1a3a5c,60:2176ae,100:57c5f7&height=240&section=header&text=Dinil%20Dulneth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20.NET%20Architect%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20Tech%20Lead&descAlignY=58&descSize=17&descColor=b8e4f9" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%26+Architect;.NET+%7C+Flutter+%7C+React+%7C+Node.js;Designing+Scalable+Production+Systems;Building+Cross-Platform+Mobile+Apps;Tech+Lead+%26+Independent+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=57C5F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%26+Software+Architect;.NET+%7C+Flutter+%7C+React+%7C+Node.js;Designing+Systems+That+Scale;Building+Cross-Platform+Mobile+Apps;Tech+Lead+%26+Independent+Product+Builder;Code+with+Purpose.+Ship+with+Precision." alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:dinildulneth123@gmail.com"><img src="https://img.shields.io/badge/Gmail-dinildulneth123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi-5b7a06279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/DinilDulneth"><img src="https://img.shields.io/badge/GitHub-DinilDulneth-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- CONTACT BADGES -->
+<a href="mailto:dinildulneth123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dinildulneth123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi-5b7a06279/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/DinilDulneth">
+  <img src="https://img.shields.io/badge/GitHub-DinilDulneth-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍%20Malabe%2C%20Sri%20Lanka-34D399?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/📍 Malabe%2C%20Sri%20Lanka-57C5F7?style=flat-square&logoColor=white" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=DinilDulneth&style=flat-square&color=818CF8&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=DinilDulneth&style=flat-square&color=57C5F7&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/DinilDulneth?label=Followers&style=flat-square&color=57C5F7&logo=github" />
 
 </div>
 
 ---
+
+<!-- ABOUT + ANIMATED GIF -->
+
+<img align="right" alt="Coding Animation" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ## 🧑‍💻 About Me
 
@@ -28,45 +48,56 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 
 > *"I don't just write code — I architect solutions, lead teams, and ship products that matter."*
 
-- 🎓 **B.Sc. in Information Technology** — Sri Lanka Institute of Information Technology (SLIIT)
-- 💼 **Full-Stack Developer & Software Architect** — Techwire Pvt Ltd
-- 🏭 **System Developer** — Norochcholai Coal Power Plant *(mission-critical systems)*
-- 🚀 **Independent Builder** — Designing and launching my own applications
-- 🏗️ **Tech Lead** — Guiding teams, defining architecture, delivering at scale
-- ☕ Fuelled by coffee, clean architecture, and shipping great products
+<br/>
+
+🎓 **B.Sc. IT** — Sri Lanka Institute of Information Technology (SLIIT)<br/>
+💼 **Full-Stack Developer & Architect** — Techwire Pvt Ltd<br/>
+🏭 **System Developer** — Norochcholai Coal Power Plant<br/>
+🚀 **Independent Builder** — Designing & launching my own apps<br/>
+🏗️ **Tech Lead** — Architecture, team leadership, delivery at scale<br/>
+☕ Fuelled by coffee, clean code, and shipping great products
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Metrics Dashboard
 
+<!-- ROW 1: Main stats + streak -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinilDulneth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=F472B6&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DinilDulneth&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1B2A&title_color=57C5F7&icon_color=57C5F7&text_color=b8e4f9&ring_color=57C5F7&border_radius=12&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DinilDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=818CF8&border_radius=12&sideLabels=c9d1d9&sideNums=818CF8&dates=c9d1d9" />
+<img height="175" src="https://streak-stats.demolab.com/?user=DinilDulneth&theme=transparent&hide_border=true&background=0D1B2A&ring=57C5F7&fire=57C5F7&currStreakLabel=57C5F7&sideLabels=b8e4f9&sideNums=57C5F7&dates=b8e4f9&border_radius=12&stroke=2176ae" />
 
 </div>
 
 <br/>
 
-<!-- Profile Summary Cards — provides stat overview + language breakdowns like the example you shared -->
+<!-- ROW 2: Profile summary banner -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinilDulneth&theme=tokyonight" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinilDulneth&theme=github_dark" width="97%" />
 </div>
 
+<br/>
+
+<!-- ROW 3: Language cards + stats -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinilDulneth&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinilDulneth&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinilDulneth&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinilDulneth&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinilDulneth&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinilDulneth&theme=github_dark" width="32%" />
 
 </div>
 
+<br/>
+
+<!-- ROW 4: Productive time + donut -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinilDulneth&theme=tokyonight&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinilDulneth&theme=github_dark&utcOffset=5.5" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinilDulneth&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&border_radius=12&langs_count=10&size_weight=0.5&count_weight=0.5" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinilDulneth&layout=donut&theme=transparent&hide_border=true&bg_color=0D1B2A&title_color=57C5F7&text_color=b8e4f9&border_radius=12&langs_count=10&size_weight=0.5&count_weight=0.5" width="37%" />
 
 </div>
 
@@ -75,81 +106,80 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinilDulneth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=818CF8&point=F472B6&area=true&area_color=818CF8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinilDulneth&theme=react-dark&hide_border=true&bg_color=0D1B2A&color=57C5F7&line=2176ae&point=57C5F7&area=true&area_color=1a3a5c" width="100%" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-<!-- Column=4 is safer and more reliable than 7 -->
-<img src="https://github-profile-trophy.vercel.app/?username=DinilDulneth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="80%" />
+<!-- Trophies with algolia theme (sky blue look) -->
+<img src="https://github-profile-trophy.vercel.app/?username=DinilDulneth&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4" width="80%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏗️%20Software%20Architect-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/🚀%20Tech%20Lead-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/📱%20Flutter%20Engineer-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/⚙️%20.NET%20Specialist-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🛠️%20Full--Stack%20Dev-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/💡%20Product%20Builder-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
+<img src="https://img.shields.io/badge/🔒%20Mission%20Critical%20Systems-1a3a5c?style=for-the-badge&color=1a3a5c&labelColor=2176ae" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Mastered Technologies & Topics
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,figma,vite&theme=dark&perline=10" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,figma,vite&theme=dark" />
-</p>
+### ⚙️ Backend & .NET
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,spring,laravel,py,php&theme=dark&perline=10" />
 
-### ⚙️ Backend & .NET Ecosystem
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,spring,laravel,py,php&theme=dark" />
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-<img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 
 ### 📱 Mobile
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark&perline=10" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
 ### 💾 Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark&perline=10" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+<br clear="right"/>
 
-### 🏗️ Architecture & Design Patterns
-
-<p align="left">
-<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Domain%20Driven%20Design-764ABC?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Event%20Driven-FF9800?style=for-the-badge&logoColor=white" />
-</p>
+### 🏗️ Architecture & Patterns
+<img src="https://img.shields.io/badge/Microservices-1a3a5c?style=for-the-badge&logo=serverless&logoColor=57C5F7" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-1a3a5c?style=for-the-badge&logoColor=57C5F7" />
+<img src="https://img.shields.io/badge/REST%20API-1a3a5c?style=for-the-badge&logo=fastapi&logoColor=57C5F7" />
+<img src="https://img.shields.io/badge/GraphQL-1a3a5c?style=for-the-badge&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/DDD-1a3a5c?style=for-the-badge&logoColor=57C5F7" />
+<img src="https://img.shields.io/badge/CQRS-1a3a5c?style=for-the-badge&logoColor=57C5F7" />
+<img src="https://img.shields.io/badge/Event%20Driven-1a3a5c?style=for-the-badge&logoColor=57C5F7" />
 
 ### 🚀 DevOps, Cloud & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode,visualstudio,jira,linux,figma&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode,visualstudio,jira,linux,figma&theme=dark&perline=11" />
 
 ### 🧱 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,js,ts,php,dart,kotlin,r&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,js,ts,php,dart,kotlin,r&theme=dark&perline=11" />
 
 ---
 
@@ -158,20 +188,68 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 <div align="center">
 
 <a href="https://github.com/DinilDulneth/LearnHereExampleOutput">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=F472B6&text_color=c9d1d9&border_radius=12" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=LearnHereExampleOutput&theme=transparent&hide_border=true&bg_color=0D1B2A&title_color=57C5F7&icon_color=57C5F7&text_color=b8e4f9&border_radius=12" width="45%" />
 </a>
 &nbsp;
 <a href="https://github.com/DinilDulneth/workForceManagementSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=F472B6&text_color=c9d1d9&border_radius=12" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=workForceManagementSystem&theme=transparent&hide_border=true&bg_color=0D1B2A&title_color=57C5F7&icon_color=57C5F7&text_color=b8e4f9&border_radius=12" width="45%" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/DinilDulneth/JAVA_Food_Ordering_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=F472B6&text_color=c9d1d9&border_radius=12" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinilDulneth&repo=JAVA_Food_Ordering_system&theme=transparent&hide_border=true&bg_color=0D1B2A&title_color=57C5F7&icon_color=57C5F7&text_color=b8e4f9&border_radius=12" width="45%" />
 </a>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinilDulneth/DinilDulneth/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinilDulneth/DinilDulneth/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/DinilDulneth/DinilDulneth/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Click to set up the Snake animation (one-time setup)</summary>
+
+Create `.github/workflows/snake.yml` in your `DinilDulneth/DinilDulneth` repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions** tab and run it manually once.
+</details>
 
 ---
 
@@ -179,8 +257,12 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" />&nbsp;&nbsp;<em><b>I love connecting with passionate developers and builders around the world!</b></em>
+
+<br/><br/>
+
 <a href="mailto:dinildulneth123@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/dinil-dulneth-liyanaarachchi-5b7a06279/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -192,16 +274,16 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 <br/><br/>
 
 > 💬 Open to **collaborations**, **freelance projects**, **architecture consulting**, and **building new products together**.
-> If you have an idea, a system that needs scaling, or a team that needs leadership — **let's talk.**
+> If you have an idea or a system that needs scaling — **let's talk.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Architect.+Build.+Lead.+Ship.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=57C5F7&center=true&vCenter=true&width=650&lines=Architect.+Build.+Lead.+Ship.+Repeat.;From+Concept+to+Production+%E2%80%94+End+to+End." />
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:57c5f7,50:2176ae,100:0d1b2a&height=140&section=footer" width="100%" />
 </div>
