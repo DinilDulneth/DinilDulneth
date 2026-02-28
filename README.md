@@ -215,14 +215,6 @@ I design systems end-to-end: from database schemas and API layers to mobile apps
 </picture>
 
 </div>
-
-<details>
-<summary>⚙️ Click to set up the Snake animation (one-time setup)</summary>
-
-
-Then go to **Actions** tab and run it manually once.
-</details>
-
 ---
 
 ## 🌐 Connect With Me
